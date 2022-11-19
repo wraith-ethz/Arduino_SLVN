@@ -53,4 +53,5 @@ dkms.conf
 
 # Altium
 History/
+__Previews/
 *.PrjPcbStructure
