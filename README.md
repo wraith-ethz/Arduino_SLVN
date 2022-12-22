@@ -23,7 +23,7 @@ Board for Arduino MKRZero with various buttons / LEDs etc. to learn programming 
  * Connect the board to the PC
  * Start Arduino IDE and create a new sketch (make sure that you have selected the MKRZero as board and the correct COM port)
  * in ArduinoBlocks, go to `Blocks->View Code`
- * Press the `Copy button`
+ * Press the `Copy` button
  * Paste it in the Arduino IDE and upload the sketch
  * The Board should now do what you want
  * Enjoy :)
